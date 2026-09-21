@@ -1,0 +1,16 @@
+{
+  "name": "verify-bot",
+  "version": "1.0.0",
+  "description": "Discord-Bot: Verify-System mit Auto-Rejoin, Willkommensnachricht und Web-Dashboard",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
